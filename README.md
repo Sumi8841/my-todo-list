@@ -65,3 +65,9 @@ do-it-app/
 │   └── package-lock.json   # Backend dependency tree lockfile
 │
 └── README.md               # Comprehensive project documentation & guide
+
+
+👨‍💻 Author
+Khadija Akter Sumi 
+
+GitHub Profile: @Sumi8841
